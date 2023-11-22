@@ -1,0 +1,90 @@
+.outbox{
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: rgb(196, 196, 196);
+margin-right: 0.5px;
+height: 100vh;
+}
+.h123{
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+.box{
+background-color: white;
+color:  rgb(0, 0, 0);
+width: 480px;
+height: 575px;
+font-family: sans-serif;
+border-radius: 20px;
+}
+.buta{
+width: 200px;
+height: 60px;
+border: none;
+margin-top: 40px;
+border-radius: 30px;
+background-color: cornflowerblue;
+color:  rgb(255, 255, 255);
+cursor: pointer;
+text-size-adjust: 20px;
+transition: 0.3s ease;
+}
+.buta:hover{
+    color: white;
+background-color: rgb(0, 0, 0);
+border: 3px solid white;
+width: 210px;
+height: 67px;
+}
+
+.h44{
+    margin-top: 40px;
+}
+.use
+{
+    border-radius: 20px;
+    color: rgb(213, 223, 231);
+    text-align: center;
+color: rgb(255, 255, 255);
+background-color: aliceblue;
+border: none;
+margin: 20px;
+height: 5px;
+width: 230px;
+border-radius: 10px;
+padding: 2em;
+border: 3px solid white;
+}
+.pas
+{
+    border-radius: 20px;
+    text-align: center;
+color: rgb(255, 255, 255);
+background-color: aliceblue;
+border: none;
+margin: 20px;
+height: 5px;
+width: 230px;
+border-radius: 10px;
+padding: 2em;
+border: 3px solid white;
+}
+.imo{
+    background-color: white;
+    display:flex ;
+    justify-content: space-around;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 5px;
+    padding: 20px;
+}
+.bot
+{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
