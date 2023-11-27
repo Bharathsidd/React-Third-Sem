@@ -1,0 +1,119 @@
+
+.navbar
+{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(207, 207, 207);
+}
+.uli {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+  
+  .po {
+    float: right;
+  }
+  .head
+  {
+    float: left;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+  
+  .po .al {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .po .al:hover {
+    background-color: #dddcdc;
+  }
+.boxb{
+    background-color:rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+    width: 59%;
+    border-radius: 10px;
+    margin-left: 570px;
+    margin-top: 70px;
+}
+.boto{
+    height: 80%;
+    width: 55%;
+    background-image: url(https://images.unsplash.com/photo-1572357243457-fc153742e7a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAzfHx2ZWdldGFibGV8ZW58MHx8MHx8fDA%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+
+}
+.boxin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+    width: 80%;
+}
+.regest{
+    font-family: sans-serif;
+}
+.butm{
+    border: none;
+    border-radius: 30px;
+    width: 200px;
+    transition: 0.3s ease;
+}
+.butm:hover
+{
+    background-color: black;
+    color: aliceblue;
+
+}
+.inpute{
+    height: 1.4cm;
+    width: 10cm;
+    border-radius: 10ch;
+    justify-content: center;
+    background-color: rgb(241, 250, 253);
+    border: none;
+    text-align: center;
+}
+.inpute:focus{
+    outline-color: black;
+}
+::placeholder{
+    text-align: center;
+    font-weight: bolder;
+}
+.create{
+    text-align: center;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+.img1{
+    width: 32px;
+    height: 32px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.img2{
+    width: 43px;
+    height: 43px;
+    margin-bottom: 4px;
+    margin-left:10px;
+}
